@@ -153,6 +153,7 @@
     {
         "class": "tab_label",
         "fade": true,
+        "font.face": "Helvetica Neue",
         "fg": [101, 115, 127] // 03
     },
     {
@@ -378,6 +379,7 @@
     // General labels
     {
         "class": "label_control",
+        "font.face": "Helvetica Neue",
         "color": [101, 115, 126] // 03
     },
     // Text field labels
@@ -409,6 +411,7 @@
     // Tooltip content
     {
         "class": "tool_tip_label_control",
+        "font.face": "Helvetica Neue",
         "color": [239,241,245] // 07
     },
 
@@ -475,6 +478,7 @@
     // Sidebar heading
     {
         "class": "sidebar_heading",
+        "font.face": "Helvetica Neue Medium",
         "color": [79, 91, 102], // 02
         "font.bold": true
     },
@@ -512,6 +516,7 @@
     // Sidebar entry
     {
         "class": "sidebar_label",
+        "font.face": "Helvetica Neue",
         "color": [101, 115, 127] // 03
     },
     {
